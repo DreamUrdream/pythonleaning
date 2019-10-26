@@ -1,0 +1,126 @@
+turtle.shape("turtle")[5G[Kturtlt[Ke.bacp[K[K[Kk(100[K[K[K300)
+>>> turtle.bk(300)
+>>> tru[K[Kurtle.rt(90)
+>>> turtle.rt(90)r[Pt[1@lt
+>>> turtle.lt(90)
+>>> turtle.lt(90)0)[K10)80)
+>>> turtle.lt(180)80)[K
+>>> turtle.lt(80)180)90)[K[12Gr[18G[12Gbk(300)[12Gshape("turtle")[12Gfd(200)[K
+>>> turtle.fd(200)[12Glt(80)[K[Pt[1@rt
+>>> turtle.penup()
+>>> turtle.penup()[12Grt(80)[K[12Gfd(200)
+>>> turtle.fd(200)[5G[Kturtle.fd(200)[5G[Kturtle.fd(200)[5G[Kturtle.fd(200)[5G[Kturtle.fd(200)[12Gpenup()[12Grt(80)[K[12Gfd(200)[12Glt(80)[K[12Gfd(200)[12Grt(80)[K
+>>> turtle.rt(80)[12Gfd(200)
+>>> turto[Kle.goto(0,0)
+>>> turtle.goto(0,0)[12Gfd(200)[K[12Grt(80)[K
+>>> tru[K[Kurtle.pendown()
+>>> turtle.pendown()[12Grt(80)[K[12Ggoto(0,0)[12Gfd(200)[K
+>>> tru[K[Kurtle.penclo[K[Kolor("rad[K[Ked")
+>>> turtle.pencolor("red")[12Gfd(200)[K
+>>> turtle.fd(200)[P([P([1@b([1@k(
+>>> turtle.bk(200)[12Gfd[19G[12Gpencolor("red")[12Gfd(200)[K[12Gpendown()[12Grt(80)[K
+>>> turtle.rt(80)[12Gbk(200)[12Gfd[19G
+>>> turtle.pen[K[K[Kcifrt[K[K[Krcle(50)
+>>> turtle.circle(50)[12Gfd(200)[K[12Grt(80)[K
+>>> turtle.rt(80)[12Gcircle(50)[12Gfd(200)[K
+>>> turtle.fd(200)[12Grt(80)[K[12Gcircle(50),)9)0)
+>>> turtle.c[Kstampe[K()
+7
+>>> turtrle[K[K[Kle.goto(0,0)
+>>> turtle.goto(0,0)[12Gstamp()[K
+8
+>>> trut[K[K[Kurtle.penup()
+>>> turtle.penup()[12Gstamp()[12Ggoto(0,0)
+>>> turtle.goto(0,0),0)[K1,0)0,0)0,0)
+>>> turtle.g[Kpendown()
+>>> turtle.ge[K[Kbegin-[K_fill()
+>>> turtle.circle(100)
+>>> turtle.end_fill()
+>>> turl[Ktle.fillcolort[K(""u"y"e""[K"[Ky""[K"[Ky"e"l"l"o"w"")
+>>> turtle.fillcolor("yellow")[12G[4@end_fill()[K[12Gcircle(100)[12Gbegin_fill()
+>>> turtle.begin_fill()[12G[6Pfillcolor("yellow")[12G[4@end_fill()[K[12G[4Pfillcolor("yellow")[12G[6@begin_fill()[K[12G[6Pfillcolor("yellow")[12G[4@end_fill()[K[12Gcircle(100)
+>>> turtle.circle(100)[12Gbegin_fill()[12G[6Pfillcolor("yellow")[12G[4@end_fill()[K
+>>> turtle.end_fill()[12Gcircle(100)[12Gbegin_fill()[12G[6Pfillcolor("yellow")")[K")[K")[K")[K")[K")[Kr")e")d")
+>>> turtle.fillcolor("red")[12G[4@end_fill()[K[12Gcircle(100)[12Gbegin_fill()
+>>> turtle.begin_fill()[12G[6Pfillcolor("red")[12G[4@end_fill()[K[12Gcircle(100)
+^[[A^[[A>>> turtle.circle(100)[12Gbegin_fill()[12G[6Pfillcolor("red")[12G[4@end_fill()[K
+>>> tru[K[Kr[Kut[Krtle.r[Kwrite*[K(""h"e"l"l"o"")
+>>> turtle.write("hello")[12Gend_fill()[K[12Gcircle(100)[12Gbegin_fill()[12G[6Pfillcolor("red")[12G[4@end_fill()[K[12Gcircle(100)[12Gbegin_fill()[12G[6Pfillcolor("yellow")[12G[4@end_fill()[K[12Gcircle(100)[12Gbegin_fill()[12Gpendown()[K[12Ggoto(100,0))[K0,0)[K[12Gpenup()[K[12Ggoto(0,0)10,0)00,0)0,-0)10)00)00)
+>>> turtle.goto(100,-1000))[K
+>>> turtle.goto(100,-100)0)[12Gwrite("hello")[K
+>>> turtle.write("hello"),)f)o)n)t)=)()")A)r)i)a)l)") [A[39G, [40G
+)
+ )4)8),) )")n)o)r)m)a)l)")))
+>>> turtle.write("hello",font=("Arial", 
+ 48, "normal"))8[P,[P,[1@1,[1@0,[1@0,
+>>> turtle.write("hello",font=("Arial", 
+ 100, "normal"))
+[A[39G[1@T[39G" 
+[1@, [A[27G[1@r[39Gl,
+[1@",[A[28G[1@u[39Ga"
+[1@l"[A[29G[1@t[39Gil
+[1@al[A[30G[1@e[39Gra
+[1@ia[A[31G[P[39Gii
+[Pa[A[30G[P[39Gaa
+[Pl[A[29G[1@e[39Gil
+[1@al[A[30G[1@,[39Gra
+[1@ia[A[31G[39Gri
+>>> turtle.write("hello",True,font=("Ar 
+ial", 100, "normal"))[P0[1@20
+>>> turtle.write("hello",True,font=("Ar 
+ial", 200, "normal"))[1@\0[P0[P,
+>>> turtle.write("hello",True,font=("Ar 
+ial", 20, "normal"))[9G[1@0,[22G[7G1[22G[Alo",[5P[35Gial",i
+[5P [17G[2G[P48[16G[A[25G)[K[39G  
+[K[A[26G[12Ggoto(100,-100)[12Gwrite("hello"),font=("Arial", 
+ 48, "normal"))[2G[1@100[17G[A[26G[5@True,[39Gr 
+[5@ial", [22G[7G2[22G[9G[P,[21G[A[5G[K[39G i
+[K[A>>> turtl3.[K[Ke.c l[Klear()
+>>> turtle.clear()[12Gwrite("hello",True,font=("Ar 
+ial", 20, "normal"))[P0[1@100[1@0,
+>>> turtle.write("hello",True,font=("Ar 
+ial", 100, "normal"))[A[12Gclear()[K[39G i
+[K[A[19G[12Gwrite("hello",True,font=("Ar 
+ial", 20, "normal"))[9G[1@0,[22G[7G1[22G[Alo",[5P[35Gial",i
+[5P [17G[2G[P48[16G[A[25G)[K[39G  
+[K[A[26G[12Ggoto(100,-100)0)[12Gwrite("hello")[K[12Gend_fill()[K[12Gcircle(100)[12Gbegin_fill()[12G[6Pfillcolor("red")[12G[4@end_fill()[K[12Gcircle(100)[12Gbegin_fill()[12Gcircle(100)[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kturtle.bye()
+>>> gtur[K[K[K[Kturtle.setup(100,100)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<string>", line 5, in setup
+turtle.Terminator
+>>> turtle.setup(100,100)[P,[P,[P,,100)[K\100)100)[K1[5G[Kturtle.setup(100,100),100)[K,100)
+>>> turtle.setup(100,100)1[P0[1@4000,100)[K\00)400)\00)\00)00)[K00)[K00)[K00)[K400)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<string>", line 5, in setup
+turtle.Terminator
+>>> turtle.setup(400,400),400)[K,400)
+>>> turtle.setup(400,400)[18G100,100)[12Gbye()[K[12Gwrite("hello",True,font=("Ar 
+ial", 100, "normal"))[P,[P0[1@50
+>>> turtle.write("hello",True,font=("Ar 
+ial", 50, "normal"))
+[A[39G[1@a[39GAi
+[1@ri[A[32G[1@l[39G"r
+[1@Ar[A[33G[1@i[39G(A
+[1@"A[A[34G[1@gfont="
+[1@("[A[35G[1@nfont(
+[1@=([A[36G=fon=[40G
+[1@t=[A[37G"fot[40G
+[1@nt[A[38Gcfn[40G
+[1@on[A[39Geo[40G
+[1@fo
+[1@nf[1@tf[1@ef[1@rf[1@"f[1@,f
+>>> c[Kturtle.clean[K[Kar()
+>>> turtle.clear()[12Gwrite("hello",True,align="ce 
+nter",font=("Arial", 50, "normal"))
+>>> turtle.write("hello",True,align="ce 
+nter",font=("Arial", 50, "normal"))[A[12Gclear()[K[39G n
+[K[A[19G[K[K[K[K[K[K[Kpeni[Kuo[Kp(0[K)
+>>> turtle.penup()[12Gwrite("hello",True,align="ce 
+nter",font=("Arial", 50, "normal"))[A[12Gclear()[K[39G n
+[K[A[19G
+>>> turtle.clear()[K[K[K[K[K[K[Kgotot[K(0,0)
+>>> turtle.goto(0,0)[12Gclear()[K[12Gpenup()[12Gwrite("hello",True,align="ce 
+nter",font=("Arial", 50, "normal"))
+>>> 
